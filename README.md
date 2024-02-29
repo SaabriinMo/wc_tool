@@ -53,4 +53,4 @@ To run the file, run this in the terminal:
 
 Next steps:
 
-add setup.py so that i wouldn't need to add python / python3 to receive the output.
+add setup.py so that i wouldn't need to explicitly use python / python3 to receive the output.
